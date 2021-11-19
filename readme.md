@@ -36,4 +36,4 @@ hape
 source ~/.bashrc
 ```
 
-The Hape Splash Screen is automatically displayed when you open Terminal again
+The Hape Splash Screen is automatically displayed when you open terminal again
