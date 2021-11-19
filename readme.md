@@ -19,8 +19,9 @@ chmod +x ./hape.sh
 
 In haple.sh, line 19,  Replace Beijing with your city name, GPS, etc. See: curl wttr.in/:help
 
+```
 curl wttr.in/Beijing?0 --silent --max-time 3 > /tmp/now-weather
-
+```
 
 ### Add the below two lines to the end of.bashrc
 
