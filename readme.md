@@ -1,3 +1,6 @@
+![hape](https://github.com/yuanaichi/hape-splash-screen/blob/main/hape-splash-screen.png?raw=true "hape splash screen")
+
+
 ### install
 
 ```
