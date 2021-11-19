@@ -2,14 +2,13 @@
 
 ```
 sudo apt install toilet
+
 sudo apt install  neofetch
+
 git clone https://github.com/yuanaichi/hape-splash-screen.git 
-```
 
-### run
-
-```
 cd hape-splash-screen
+
 chmod +x ./hape.sh
 ```
 
