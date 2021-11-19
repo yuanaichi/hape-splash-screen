@@ -20,3 +20,11 @@ Add the below two lines to the end of.bashrc
 alias hape='/your-path/hape-splash-screen/hape.sh'
 hape
 ```
+
+Reload bashrc
+
+```
+source ~/.bashrc
+```
+
+The Hape Splash Screen is automatically displayed when you open Terminal again
